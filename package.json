@@ -1,0 +1,22 @@
+{
+  "name": "mask-crawler",
+  "version": "1.0.0",
+  "main": "index-temp.js",
+  "scripts": {
+    "start": "babel-node index"
+  },
+  "author": "minikuma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "iconv-lite": "^0.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.0"
+  }
+}
