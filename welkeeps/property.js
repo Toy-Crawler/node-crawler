@@ -5,5 +5,5 @@
  */
 
 export const constants = {
-    웰킵스: "http://www.welkeepsmall.com/",
+    "웰킵스": "http://www.welkeepsmall.com/",
 };

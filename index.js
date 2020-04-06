@@ -55,7 +55,6 @@ app.get("/mask", function (req, res) {
             status: "OK",
             data: messages,
         };
-
         res.json(jsonData);
     });
 });
